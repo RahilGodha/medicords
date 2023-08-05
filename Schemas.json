@@ -1,0 +1,23 @@
+{
+  "doctor_name": "Dr. John Smith",
+  "patient_name": "Alice Johnson",
+  "date": "2023-08-03",
+  "medications": [
+    {
+      "name": "Aspirin",
+      "dosage": "500mg",
+      "frequency": "Once daily",
+      "instructions": "Take with food",
+      "duration": "10 days"
+    },
+    {
+      "name": "Antibiotic",
+      "dosage": "250mg",
+      "frequency": "Twice daily",
+      "instructions": "Take after meals",
+      "duration": "7 days"
+    }
+  ],
+  "additional_notes": "Get enough rest and drink plenty of fluids.",
+  "doctor_signature": "Base64 encoded signature here"
+}
