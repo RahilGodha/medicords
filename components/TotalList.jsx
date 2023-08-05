@@ -6,7 +6,7 @@ const TotalList = () => {
       date: '2023-08-01',
       doctorId: 'DOC123',
       hospitalId: 'HOSP456',
-      docLinks: ['link1', 'link2'],
+      docLinks: ['link1', 'link2'], 
     },
     {
       date: '2023-08-02',
